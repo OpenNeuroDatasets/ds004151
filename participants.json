@@ -1,0 +1,28 @@
+{
+  "participant_id": {
+    "LongName": "Participant identifier",
+    "Description": "Unique participant identifier"
+  },
+  "Age": {
+    "Description": "age of the participant",
+    "Units": "years"
+  },
+  "Gender": {
+    "Description": "Sex of the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "BMI": {
+    "LongName": "Body mass index",
+    "Units": "numeric"
+  },
+  "WS": {
+    "Description": "Clasification of participant based on their BMI",
+    "Levels": {
+      "N-O": "Non-obese",
+      "O": "Obese"
+    }
+  }
+}

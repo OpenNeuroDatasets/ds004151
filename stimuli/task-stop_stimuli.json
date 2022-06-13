@@ -1,0 +1,10 @@
+{
+  "Go": {
+    "LongName": "Go condition",
+    "Description": "Participant has to answer."
+  },
+  "NoGo": {
+    "LongName": "No-go or stop-signal condition",
+    "Description": "Participant has to withhold their answer when a sound appears."
+  }
+}
